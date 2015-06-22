@@ -10,6 +10,7 @@ gem 'spring', :group => :development
 
 gem 'sqlite3'
 
+gem 'active_model_serializers', '0.10.0.rc2'
 
 
 # To use ActiveModel has_secure_password
